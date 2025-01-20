@@ -17,7 +17,7 @@ font-weight: 700;
     text-decoration: line-through;
     text-shadow: 1px 1px 1px black;
     text-transform: uppercase;
-    text-indent: ;
+
     letter-spacing: 5px;
     word-spacing: 5px;
     white-space: normal;
@@ -30,5 +30,6 @@ margin: 20px;
 width: 500px;
 }
 .block2{
+    padding: 10px 20px 5px;
 
 }
